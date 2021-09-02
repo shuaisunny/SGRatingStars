@@ -1,2 +1,3 @@
 # SGRatingStars
 test
+cool
