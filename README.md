@@ -6,13 +6,6 @@ test
 pool
 test
 
-bake
-last
-bak
-now
-chane
-test
-aaik
 test
 fulu
 home
