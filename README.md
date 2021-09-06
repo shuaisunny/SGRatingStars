@@ -4,10 +4,6 @@ cool
 test
 test
 pool
-test
-
-test
-fulu
 home
 post
 coolmast
