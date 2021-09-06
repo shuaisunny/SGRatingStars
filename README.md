@@ -2,7 +2,5 @@
 
 cool
 test
-te
-t
 pllp
 afdaf
