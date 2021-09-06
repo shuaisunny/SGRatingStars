@@ -2,9 +2,7 @@
 
 cool
 test
-test
-pool
-home
+tes
 post
 coolmast
 t
